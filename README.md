@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaninShen
 - 👀 I’m interested in Physics and Programming
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning in University
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me by kaninshen@protonmail.com
 
